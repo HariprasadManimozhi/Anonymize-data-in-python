@@ -7,6 +7,9 @@ Given a target dataset (for example, a CSV file with multiple columns), produce 
 
 <p align="center">
 <img src="https://miro.medium.com/max/1400/0*Mf_EX7p1caMoabhv.png">
+  
+<!--(Image)![image](https://user-images.githubusercontent.com/28645647/175289257-05924a9c-6d61-4ed2-9933-3ad3939eae24.png)-->
+
 
 ## Tools:
 There are two third-party libraries for generating fake data with Python
