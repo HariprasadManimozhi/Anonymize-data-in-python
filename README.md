@@ -6,11 +6,8 @@ A possible solution to dealing with Personal identifying information(PII) in the
 Given a target dataset (for example, a CSV file with multiple columns), produce a new dataset such that for each row in the target, the anonymized dataset does not contain any personally identifying information. The anonymized dataset should have the same amount of data and maintain its analytical value.
 
 <p align="center">
-<img src="https://miro.medium.com/max/1400/0*Mf_EX7p1caMoabhv.png">
+<img src="https://user-images.githubusercontent.com/28645647/175289511-a6bbbf90-b3d0-4550-a2e7-c3ec31e12beb.png">
   
-<!--(Image)![image](https://user-images.githubusercontent.com/28645647/175289257-05924a9c-6d61-4ed2-9933-3ad3939eae24.png)-->
-
-
 ## Tools:
 There are two third-party libraries for generating fake data with Python
 - Faker
